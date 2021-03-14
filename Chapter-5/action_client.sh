@@ -1,0 +1,1 @@
+rosrun basics simple_action_client.py

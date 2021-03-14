@@ -1,0 +1,1 @@
+rqt_plot cmd_vel/linear/x cmd_vel/angular/z

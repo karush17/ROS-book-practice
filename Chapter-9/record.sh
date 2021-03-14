@@ -1,0 +1,1 @@
+rosbag record -0 data.bag /scan /tf

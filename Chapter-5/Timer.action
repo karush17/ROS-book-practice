@@ -1,0 +1,10 @@
+# goal (sent by client)
+duration time_to_wait
+---
+# feedback (sent by server)
+duration time_elapsed
+uint32 updates_sent
+---
+# result (sent by server)
+duration time_elapsed
+duration time_remaining

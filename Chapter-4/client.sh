@@ -1,0 +1,1 @@
+rosrun basics service_client.py these are some words
